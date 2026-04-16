@@ -208,7 +208,7 @@ make re     # Full rebuild
 
 <div align="center">
 
-Made with ☕ and complex numbers at [42 Paris](https://42.fr)
+Made with ☕ at [42 LeHavre](https://42lehavre.fr) — **jcrochet**
 
 **jcrochet**
 
